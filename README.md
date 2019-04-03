@@ -5,7 +5,10 @@
 
 에이전트는 자바버전에 맞게 고른뒤
 실행할 서버프로그램을 실행할때 옵션을 줘서 같이 실행하게 하면 된다
-(http://192.168.0.138/pyh/tomcat8.5/blob/master/tomcat8.5_linux/bin/catalina.sh 참고)
+
+ex)<br>
+JAVA_OPTS="$JAVA_OPTS -Dscouter.config=/erssys/SCOUTER/AVL/conf/scouter.conf -Djava.awt.headless=true -server -Xmx2G -Xms2G -XX:MaxNewSize=384m -XX:MaxPermSize=128m"<br>
+CATALINA_OPTS="$CATALINA_OPTS -javaagent:/erssys/SCOUTER/AVL/scouter.agent.jar"<br>
 
 에이전트중에 host는 별개로 실행해줘야된다.
 
