@@ -1,0 +1,92 @@
+20190218 10:59:52 Scouter Server Version 2.6.0 2019-01-19 07:44 GMT
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.6.0
+ 
+20190218 10:59:52 Load Account Group File
+20190218 10:59:52 Load Account File
+20190218 10:59:52 Load Account Group File
+20190218 10:59:52 udp listen 0.0.0.0:6100
+20190218 10:59:52 	udp_host=0.0.0.0
+20190218 10:59:52 	udp_port=6100
+20190218 10:59:52 	udp_buffer=65535
+20190218 10:59:52 	udp_so_rcvbuf=4194304
+20190218 10:59:52 Load Account File
+20190218 10:59:52 	tcp_port=6100
+20190218 10:59:52 	cp_agent_so_timeout=60000
+20190218 10:59:52 	cp_client_so_timeout=8000
+20190218 10:59:57 [S215] Alert rule detected : ErrorRate.alert
+20190218 10:59:57 PLUG-IN : scouter.server.plugin.IAlert loaded #x7mjcag
+20190218 10:59:57 PLUG-IN : scouter.server.plugin.ICounter loaded #x1ko3m9c
+20190218 10:59:57 PLUG-IN : scouter.server.plugin.IObject loaded #x14qgbgv
+20190218 10:59:57 PLUG-IN : scouter.server.plugin.IXLog loaded #x1aqbbog
+20190218 10:59:57 PLUG-IN : scouter.server.plugin.IXLog loaded #x13hi4v0
+20190218 10:59:57 PLUG-IN : scouter.server.plugin.IXLogProfile loaded #x81i6jv
+20190218 10:59:57 PLUG-IN : scouter.server.plugin.ISummary loaded #xf59lg5
+20190218 11:09:30 Scouter Server Version 2.6.0 2019-01-19 07:44 GMT
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.6.0
+ 
+20190218 11:09:38 Scouter Server Version 2.6.0 2019-01-19 07:44 GMT
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.6.0
+ 
+20190218 11:09:45 Scouter Server Version 2.6.0 2019-01-19 07:44 GMT
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.6.0
+ 
+20190218 11:09:49 Scouter Server Version 2.6.0 2019-01-19 07:44 GMT
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.6.0
+ 
+20190218 11:09:49 Load Account Group File
+20190218 11:09:49 Load Account File
+20190218 11:09:49 Load Account Group File
+20190218 11:09:49 udp listen 0.0.0.0:8802
+20190218 11:09:49 	udp_host=0.0.0.0
+20190218 11:09:49 	udp_port=8802
+20190218 11:09:49 	udp_buffer=65535
+20190218 11:09:49 	udp_so_rcvbuf=4194304
+20190218 11:09:49 Load Account File
+20190218 11:09:49 [S145] GeoIP db file is not readable : C:\Users\zarate\Desktop\scouter\server\conf\GeoLiteCity.dat
+20190218 11:09:49 	tcp_port=8802
+20190218 11:09:49 	cp_agent_so_timeout=60000
+20190218 11:09:49 	cp_client_so_timeout=8000
+20190218 11:09:51 [S104] New OBJECT  objType=tomcat objHash=x6etka5 objName=/localhost.localdomain/AVL_31 addr=192.168.0.246 2.6.0 2019-01-19 07:46 GMT_ENV_java-legacy alive 2019-02-18 11:09:51.016 {detected=tomcat,ADC=false}
+20190218 11:09:51 [S104] New OBJECT  objType=reqproc objHash=x1i00mou objName=/localhost.localdomain/AVL_31/ajp-nio-8013 addr=192.168.0.246 alive 2019-02-18 11:09:51.016
+20190218 11:09:51 [S104] New OBJECT  objType=reqproc objHash=z12kbk8p objName=/localhost.localdomain/AVL_31/http-nio-12000 addr=192.168.0.246 alive 2019-02-18 11:09:51.016
+20190218 11:09:54 [S215] Alert rule detected : ErrorRate.alert
+20190218 11:09:54 PLUG-IN : scouter.server.plugin.IAlert loaded #x1pq2hnn
+20190218 11:09:54 PLUG-IN : scouter.server.plugin.ICounter loaded #x1jec807
+20190218 11:09:54 PLUG-IN : scouter.server.plugin.IObject loaded #x1c451sf
+20190218 11:09:54 PLUG-IN : scouter.server.plugin.IXLog loaded #x1is6rcm
+20190218 11:09:54 PLUG-IN : scouter.server.plugin.IXLog loaded #x1i5ir3n
+20190218 11:09:54 PLUG-IN : scouter.server.plugin.IXLogProfile loaded #x1be11v9
+20190218 11:09:54 PLUG-IN : scouter.server.plugin.ISummary loaded #x1dsoi1h
+20190218 11:10:19 [S501] Cannot find a tcp agent for /localhost.localdomain/AVL_31/http-nio-12000
+20190218 11:10:19 [S501] Cannot find a tcp agent for /localhost.localdomain/AVL_31/ajp-nio-8013
+20190218 11:18:24 [S104] New OBJECT  objType=linux objHash=zt87fst objName=/localhost.localdomain addr=192.168.0.246 2.6.0 2019-01-19 07:44 GMT alive 2019-02-18 11:18:24.043 {detected=linux}

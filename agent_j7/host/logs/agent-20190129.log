@@ -1,0 +1,7 @@
+20190129 00:02:14 [A130] TCP unknown cmd=OBJECT_RESET_CACHE
+20190129 20:58:57 Version 2.6.0 2019-01-19 07:44 GMT
+20190129 20:58:57 [A113] Counter Collector Started (#5)
+20190129 20:58:57 [A10] host agent boot seed=x1bricnk1so
+20190129 20:58:57 [A01] Scouter Host Agent Version 2.6.0 2019-01-19 07:44 GMT
+20190129 20:58:58 [A119] Agent UDP local.port=0
+20190129 20:58:59 [INFO] Num of Cpu Cores : 8
